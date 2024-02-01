@@ -30,15 +30,15 @@ const NewsletterForm = ({ onSubmit }: Props) => {
 
       <ul className="flex flex-col gap-2 mb-6">
         <li className="flex gap-4">
-          <img src={iconList} className="h-5" />
+          <img src={iconList} className="h-5" alt="Icon List" />
           <span>Product discovery and building what matters</span>
         </li>
         <li className="flex gap-4">
-          <img src={iconList} className="h-5" />
+          <img src={iconList} className="h-5" alt="Icon List" />
           <span>Measuring to ensure updates are a success</span>
         </li>
         <li className="flex gap-4">
-          <img src={iconList} className="h-5" />
+          <img src={iconList} className="h-5" alt="Icon List" />
           <span>And much more!</span>
         </li>
       </ul>
