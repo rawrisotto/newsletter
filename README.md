@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/rawrisotto/newsletter)
+- Live Site URL: [Netlify](https://rainbow-hummingbird-9c0652.netlify.app/)
 
 ## My process
 
